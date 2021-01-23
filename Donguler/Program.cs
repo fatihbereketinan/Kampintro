@@ -45,6 +45,7 @@ namespace Donguler
             }
 
             Console.WriteLine("Sayfa Sonu - footer");
+
         }
     }
 }
