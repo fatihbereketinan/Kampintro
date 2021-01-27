@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    class IhtiyacKrediManager : IKrediManager
+    class IhtiyacKrediManager : IKrediManager    //ampülden implement yaptık metotlar geldi.
     {
         public void BiseyYap()
         {
