@@ -13,8 +13,6 @@ namespace Oop2
             //{
 
             //}
-
-
         }
     }
 }

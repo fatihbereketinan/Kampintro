@@ -14,7 +14,6 @@ namespace Oop2
             musteri1.Soyadi = "Demiroğ";
             musteri1.TcNo = "12345678910";
 
-
             //Kodlama.io
 
             TuzelMusteri musteri2 = new TuzelMusteri();
@@ -32,8 +31,8 @@ namespace Oop2
             MusteriManager musteriManager = new MusteriManager();
             musteriManager.Ekle(musteri1);
             musteriManager.Ekle(musteri2);
-
-
+            musteriManager.Ekle(musteri3);
+            musteriManager.Ekle(musteri4);
         }
     }
 }

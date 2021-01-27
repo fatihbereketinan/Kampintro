@@ -23,19 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar2", "Metotlar2\Metotlar2.csproj", "{A071E777-CB81-4BA7-889B-C46A51FFBFDC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{EB0C432D-1EA6-4E1E-8884-6CE32FEDAE5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "Oop2\OOP2.csproj", "{EB0C432D-1EA6-4E1E-8884-6CE32FEDAE5B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{29B65926-4D60-49D8-B4C1-4A7C144080EF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{5474E0BE-A3CD-4558-82ED-E6B71D288AD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{1EFEDBF5-2B9F-457A-9EE1-A3F26B4204D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{1EFEDBF5-2B9F-457A-9EE1-A3F26B4204D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{7600ECA3-AC5A-4B14-BB1E-A060B33628A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{7600ECA3-AC5A-4B14-BB1E-A060B33628A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics2", "Generics2\Generics2.csproj", "{D7C8CE23-5A7E-4DBF-B55C-F12364C0EC83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics2", "Generics2\Generics2.csproj", "{D7C8CE23-5A7E-4DBF-B55C-F12364C0EC83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{73909C5E-F28A-4457-9D31-5E432BE96299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{73909C5E-F28A-4457-9D31-5E432BE96299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
